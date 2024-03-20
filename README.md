@@ -1,4 +1,4 @@
-#Network Science and Social Network Analysis (SNA) Repository
+Network Science and Social Network Analysis (SNA) Repository
 
 Welcome to the Network Science and Social Network Analysis (SNA) Repository! This repository serves as a hub for various projects related to network science and social network analysis, developed using R and Python. Here, you will find code, scripts, and datasets contributed by researchers and enthusiasts passionate about exploring the intricate structures and dynamics of networks.
 
